@@ -4,7 +4,7 @@ This repository contains the software and testing documentation for a fully auto
 
 ## Hardware Stack
 * **Microcontroller:** Arduino UNO with Prototype Shield
-* **Vision Processing:** Raspberry Pi Pico 2 W
+* **Vision Processing:** Raspberry Pi Zero W2
 * **Chassis:** Boe-Bot 2-wheeled design
 
 ## System Architecture
